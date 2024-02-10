@@ -1,0 +1,28 @@
+.container-fluid {
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(45deg, #656565, #aa7777);
+}
+#main {
+    background-color: #dd8888ff;
+    height: 100vh;
+}
+.building {
+    height: 100px;
+    width: 96%;
+    margin-left: 2%;
+    margin-bottom: 10px;
+    background-color: #dd8888ff;
+}
+
+.building #count {
+    
+}
+
+.building #name {
+    
+}
+
+.building #cost {
+    
+}
